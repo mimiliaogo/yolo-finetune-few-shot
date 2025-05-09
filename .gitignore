@@ -1,5 +1,4 @@
 *.pt
-glove-dataset
 runs
 *.cache
 .DS_Store
